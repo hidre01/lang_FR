@@ -17,7 +17,7 @@ messages:
     selected-structure-difficulty: '&a&l(!) &7Vous avez changé votre difficulté de structure en %v'
     selected-particles: '&a&l(!) &7Vous avez changé l''affichage des particules en %v'
     selected-scoreboard: '&a&l(!) &7Vous avez changé l''affichage du tableau d''affichage en %v'
-    selected-fall-message: '&a&l(!) &7You changed the showing of the fall messages to %v'
+    selected-fall-message: '&a&l(!) &7Vous avez changer l''affichage de tout les messages en %v'
     selected-special-blocks: '&a&l(!) &7Vous avez changé l''utilisation des blocs spéciaux en %v'
     selected-structures: '&a&l(!) &7Vous avez changé l''utilisation des structures en %v'
     selected-language: '&a&l(!) &7Vous avez choisi la langue %v'
